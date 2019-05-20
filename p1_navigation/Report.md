@@ -15,6 +15,7 @@ LR = 5e-4               # learning rate
 
 ### Plot of Rewards - 
 
+![Rewards][../../images/Rewards.png]
 
 
 
