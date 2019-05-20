@@ -19,7 +19,7 @@ Envrironment has 37 states with 4 discrete actions.
 
 
 ### Improvements - 
-With more hyperparameters tuning and some network architecture changes, number of episodes required can be reduced.
+With more hyperparameters tuning and some network architecture changes, number of episodes required can be reduced.<br>
 Currently plain DQN has been used, other option to try out is Rainbow and Double DQN, to see the improvements.
 
 
