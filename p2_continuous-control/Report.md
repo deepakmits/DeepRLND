@@ -26,4 +26,4 @@ Environment Info - The observation space consists of 33 variables corresponding 
 
 ### Improvements - 
 With more hyperparameters tuning and some network architecture changes, number of episodes required can be reduced.<br>
-Try solving the task using PPO and compare how both algorithms perform.
+Tryng the task using PPO and compare how both algorithms perform.
