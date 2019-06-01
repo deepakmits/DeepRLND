@@ -29,6 +29,6 @@ Average score of 0.5+ across 100 consecutive episodes achieved with 1225 episode
 
 ### Improvements - 
 With more hyperparameters tuning and some network architecture changes, number of episodes required can be reduced to solve it faster<br>
-Trying with shared actors, shared critics etc. <br>
+Trying with more than 2 agents. <br>
 Trying the same algo on optional task of soccer and see the behavior.
 
