@@ -10,7 +10,7 @@ Average score of 0.5+ across 100 consecutive episodes achieved with 1225 episode
 
 ### Learning Algorithm Used - MADDPG - 
 1) Improvised on DDPG-PENDULUM Session. 
-2) Network Architecture And Hyperparamenters - 
+2) Network Architecture And Hyperparamenters - <br>
     Actor - Number of hidden layers - 2 each with 128 neurons <br>
     Critic - Number of hidden layers - 2 each with 128 neurons <br>
     BUFFER_SIZE = 100000            # replay buffer size <br>
